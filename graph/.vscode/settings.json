@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "array": "cpp",
+        "chrono": "cpp",
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "queue": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp"
+    }
+}
